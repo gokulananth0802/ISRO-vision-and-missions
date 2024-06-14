@@ -1,0 +1,108 @@
+*{
+    margin:0px;
+  }
+  div.head{
+    background:black;
+    text-align: center;
+    position:relative;
+    width: 100%;
+    color:yellow;
+    border:2px solid black;
+    box-shadow:0px 5px 13px grey;
+  }
+  div.body{
+    position: absolute;
+    top:120px;
+  }
+  marquee.a {
+    border-style:outset none outset none; 
+    color:yellow;
+    margin-bottom:10px;
+    width:100%;
+    font-size:20px;
+  }
+  .b{
+  margin:0px 10px 0px 10px;
+  padding:10px;
+  background-color:white;
+  opacity:70%;
+  }
+  body{
+  background-color: #1b1c1f;
+  color:black;
+  background-image:url('HD-wallpaper-black-space-black-star-stars-thumbnail.jpg');
+  }
+  p.vila{
+    background:rgb(242, 245, 66,.9);
+    padding:10px 20px 10px 20px;
+    text-align: justify;
+    align-items: center;
+    font-weight:700;
+    border-radius:10px;
+    box-shadow:0px 0px 30px grey;
+    width:80%;
+    margin-top:20px;
+    margin-bottom:40px;
+  }
+  h3.style{
+    text-decoration: none;
+    color:yellow;
+  }
+  a img{
+    margin-top:10px;
+    border-radius:20px;
+    border:2px solid grey;
+  }
+  a img:hover{
+    border-color: violet;
+  }
+  h3.missions{
+    background:yellow;
+    width:65%;
+    font-weight: 700;
+    padding:10px;
+    opacity:85%;
+    border-radius: 20px;
+  }
+  ul{
+      margin-top:20px;
+      margin-left:43%;
+  }
+  ul a{
+    text-decoration: none;
+    color:yellow;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  ul a:hover{
+    font-size: 20px;
+    color:violet;
+    text-decoration: none;
+    transition:0.5s ;
+  }
+  h5 {
+    background:#e1e663;
+    border-radius:10px;
+    width:90%;
+    padding:15px 20px;
+    text-align:justify;
+    margin-left:60px;
+  }
+  h5.giga:hover{
+    border-left
+  }
+  h3.a {
+  border-left: 40px solid yellow;
+  border-radius:10px;
+  margin-left:70px;
+  }
+  h3.a:hover{
+      border-left:100px solid yellow;
+      transition: 0.3s;
+  }
+  h3 a{
+    font-weight:700;
+    color:yellow;
+    text-decoration: none;
+    margin-left:20px;
+  }
